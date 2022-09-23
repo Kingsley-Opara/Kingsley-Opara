@@ -1,7 +1,7 @@
 # Hi 👋 you can call me kingsley
 
 - ## Am a Full Stack Developer <br>
-- ## Who also has a knee interest in Data Analysis and Web-3 Development
+- ## Who also has a key interest in Data Analysis and Web-3 Development
 - ## Am an open-source advocate and a tech enthusiast
 - ## Am interested in collabrating and meeting new friends
 <hr>
