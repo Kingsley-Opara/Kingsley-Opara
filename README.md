@@ -1,9 +1,9 @@
 # Hi 👋 you can call me kingsley
 
-- ## Am a Full Stack Developer <br>
-- ## Who also has a key interest in Data Analysis and Web-3 Development
-- ## Am an open-source advocate and a tech enthusiast
-- ## Am interested in collabrating and meeting new friends
+- ## I'm a Full Stack Developer <br>
+- ## Who also has a key interest in AI and Web-3 Development
+- ## I'm an open-source advocate and a tech enthusiast
+- ## I'm interested in collabrating and meeting new friends
 <hr>
 
 ### I was once an intern at the [Zuri Team]( https://training.zuri.team/) where I collabrated with like minds in building Real time projects.
